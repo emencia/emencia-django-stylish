@@ -1,0 +1,72 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: emencia.django.stylish\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-23 11:50+0100\n"
+"PO-Revision-Date: 2010-03-23 12:11+0100\n"
+"Last-Translator: Fantomas <Fantomas42@gmail.com>\n"
+"Language-Team: fr <jfache@emencia.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: admin.py:17
+msgid "preview"
+msgstr "Prévisualisation"
+
+#: admin.py:26
+msgid "Styles"
+msgstr "Styles"
+
+#: admin.py:43
+msgid "No relative object"
+msgstr "Pas de relations"
+
+#: admin.py:45
+msgid "Related object"
+msgstr "Objet relatif"
+
+#: models.py:17
+msgid "markup"
+msgstr "balise"
+
+#: models.py:19
+msgid "style"
+msgstr "style"
+
+#: models.py:20
+msgid "key1: value1; key2: value2;"
+msgstr "clef1: valeur1; clef2: valeur2;"
+
+#: models.py:26
+msgid "markup style"
+msgstr "style de balise"
+
+#: models.py:27
+msgid "markup styles"
+msgstr "styles de balises"
+
+#: models.py:31
+msgid "name"
+msgstr "nom"
+
+#: models.py:37
+msgid "styles"
+msgstr "styles"
+
+#: models.py:44
+msgid "style collection"
+msgstr "collection de styles"
+
+#: models.py:45
+msgid "style collections"
+msgstr "collections de styles"
+
